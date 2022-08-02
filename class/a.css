@@ -1,0 +1,15 @@
+.india{
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.vizag{
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.delhi{
+    background-color: orange;
+    font-size: 25px;
+    font-style: oblique;
+}
